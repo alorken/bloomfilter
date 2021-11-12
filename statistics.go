@@ -13,7 +13,7 @@ package bloomfilter
 import (
 	"math"
 
-	"github.com/steakknife/hamming"
+	"github.com/alorken/hamming"
 )
 
 // PreciseFilledRatio is an exhaustive count # of 1's
